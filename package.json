@@ -1,0 +1,20 @@
+{
+  "name": "java-script...it-project",
+  "version": "1.0.0",
+  "description": "this is my IT project 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IT",
+    "project",
+    "java",
+    "script"
+  ],
+  "author": "jacaranda",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
